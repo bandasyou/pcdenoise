@@ -10,7 +10,7 @@ Yinqiang Zheng.
 
 ![](manuscript/figures/hawaii-trend.png)
 
-*Caption for the example figure with the main results.*
+*Visual results.*
 
 Too be continued...
 
