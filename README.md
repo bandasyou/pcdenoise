@@ -41,10 +41,10 @@ pytorch
 
 ```
 @inproceedings{ 
-lzx2023polarized, 
-title={Polarized Color Image Denoising},
-author={Zhuoxiao Li, Haiyang Jiang, Mingdeng Cao, Yinqiang Zheng},
-booktitle={Conference on Computer Vision and Pattern Recognition 2023},
-year={2023}
+    lzx2023polarized, 
+    title={Polarized Color Image Denoising},
+    author={Zhuoxiao Li, Haiyang Jiang, Mingdeng Cao, Yinqiang Zheng},
+    booktitle={Conference on Computer Vision and Pattern Recognition 2023},
+    year={2023}
 }
 ```
