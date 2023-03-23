@@ -8,21 +8,26 @@ Yinqiang Zheng.
 
 
 
-![](figure/exp.png)
 
-*Visual results.*
 
-![](figure/ablation.png)
-
-*Visual results.*
-
-Too be continued...
 
 ## Abstract
 
 > Single-chip polarized color photography provides both visual textures and object surface information in one snapshot. However, the use of an additional directional polarizing filter array tends to lower photon count and SNR, when compared to conventional color imaging. As a result, such a bilayer structure usually leads to unpleasant noisy images and undermines performance of polarization analysis, especially in low-light conditions. It is a challenge for traditional image processing pipelines owing to the fact that the physical constraints exerted implicitly in the channels are excessively complicated. In this paper, we propose to tackle this issue through a noise modeling method for realistic data synthesis and a powerful network structure inspired by vision Transformer. A real-world polarized color image dataset of paired raw short-exposed noisy images and long-exposed reference images is captured for experimental evaluation, which has demonstrated the effectiveness of our approaches for data synthesis and polarized color image denoising.
 
+
 ## Reproducing the results
+
+### Visual results
+![](figure/compare.png)
+
+*Visual comparison for polarized color image denoising. "\*" represents the model is trained on synthetic noisy images generated via our noise model.*
+
+![](figure/ablation.png)
+
+*Visual comparison for ablation study.*
+
+Too be continued...
 ### Getting the code
 
 You can download a copy of all the files in this repository by cloning the
