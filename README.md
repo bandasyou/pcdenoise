@@ -30,9 +30,6 @@ You can download a copy of all the files in this repository by cloning the
 
 [Google Drive]()
 
-### Dependencies
-pytorch
-
 ### Test
     python test.py
 
